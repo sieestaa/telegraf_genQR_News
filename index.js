@@ -6,7 +6,7 @@ const session = require('telegraf/session')
 const Stage = require('telegraf/stage')
 const Scene = require('telegraf/scenes/base')
 const { enter, leave } = Stage
-const bot = new Telegraf('761035519:AAH2BxmvQAhmPLmSfd039SEBUsgtbx0w0p8')
+const bot = new Telegraf(******************)
 
 const stage = new Stage()
 bot.use(session())
